@@ -1,0 +1,34 @@
+body {
+    
+}
+
+header {
+    background: linear-gradient(to bottom, #ffa84c 0%,#ff7b0d 100%);
+    height: 250px;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border: 3px dotted black;
+    text-shadow: 2px 2px 5px yellow;
+}
+
+.title {
+    font-size: 70px;
+}
+
+.direction {
+    font-size: 35px;
+}
+
+.pumpkin {
+    margin-top: 300px;
+    text-align: center;
+}
+
+#pumpkin-scary {
+    width:500px;
+    height:500px;
+    background-color:red;
+}
